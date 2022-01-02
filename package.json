@@ -1,0 +1,28 @@
+{
+  "name": "@michaelsparks/chargen",
+  "version": "1.0.0",
+  "description": "Generates qwerty (English keyboard) characters in clean arrays (uppercase, lowercase & special characters array(s)) for use in other functions.",
+  "main": "_charGen.js",
+  "scripts": {
+    "test": "node -e \"console.log(require('./_charGen')._charGen())\""
+  },
+  "keywords": [
+    "alphabet",
+    "generator",
+    "array",
+    "function",
+    "special",
+    "characters",
+    "uppercase",
+    "english",
+    "helper function",
+    "qwerty"
+  ],
+  "author": "Michael Sparks",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Main-Michael-Sparks/charGen.git"
+  },
+  "url" : "https://github.com/Main-Michael-Sparks/charGen/issues"
+}
